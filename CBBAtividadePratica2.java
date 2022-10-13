@@ -1,4 +1,4 @@
-public class SomaVariaveis {
+public class CBBAtividadePratica2 {
     public static void main(String[] args){
         int primeiroNumero = 4;
         int segundoNumero = 7;
