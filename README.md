@@ -1,6 +1,5 @@
 # Questão 1 
-# Analise as seguintes declarações de variáveis e assinale (V) para Verdadei-
-ro e (F) para Falso
+# Analise as seguintes declarações de variáveis e assinale (V) para Verdadeiro e (F) para Falso
 
 ## a) ( F ) byte x = 300;
 ## b) ( V ) short $mom = 43;
