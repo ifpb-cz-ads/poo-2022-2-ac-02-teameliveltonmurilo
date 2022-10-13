@@ -1,4 +1,4 @@
-public class Variaveis {
+public class BMExercio02 {
     public static void main (String[] args){
         // 32 bits
         int i = 1;
