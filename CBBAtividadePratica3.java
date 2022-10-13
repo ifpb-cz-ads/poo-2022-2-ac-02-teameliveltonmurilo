@@ -1,4 +1,4 @@
-public class CalculoAreaTriangulo {
+public class CBBAtividadePratica3 {
     public static void main(String[] args){
 
         //estou supondo que o retângulo será de base 10 e altura 4
