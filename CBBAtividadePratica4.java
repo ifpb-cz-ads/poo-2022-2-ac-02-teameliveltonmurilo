@@ -1,4 +1,4 @@
-public class Piscina {
+public class CBBAtividadePratica4 {
     public static void main(String[] args){
         int metros = 250;
         int preco = 100;
