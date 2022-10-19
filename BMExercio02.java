@@ -5,9 +5,9 @@ public class BMExercio02 {
         // 64 bits
         long j = 2;
         // 32 bits
-        double p = 20.0;
+        float p = 20.0;
         // 64 bits
-        float q = 30.0f;
+        double q = 30.0f;
         boolean b = true;
         char c = 'k';
     }
